@@ -8,7 +8,7 @@ class App extends Component {
 
   send(values){
     alert(JSON.stringify(values));
-    request.post("http://localhost:80/sendMessage")
+    request.post("http://home.irossoftware.com:9010/sendMessage")
             .send(values)
             .end(function(err, res) {
     if (err) {
