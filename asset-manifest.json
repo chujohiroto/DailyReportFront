@@ -1,7 +1,7 @@
 {
   "main.css": "/DailyReportFront/static/css/main.4242d87e.chunk.css",
-  "main.js": "/DailyReportFront/static/js/main.65503d8c.chunk.js",
-  "main.js.map": "/DailyReportFront/static/js/main.65503d8c.chunk.js.map",
+  "main.js": "/DailyReportFront/static/js/main.4712ed75.chunk.js",
+  "main.js.map": "/DailyReportFront/static/js/main.4712ed75.chunk.js.map",
   "static/css/1.49451883.chunk.css": "/DailyReportFront/static/css/1.49451883.chunk.css",
   "static/js/1.1a817667.chunk.js": "/DailyReportFront/static/js/1.1a817667.chunk.js",
   "static/js/1.1a817667.chunk.js.map": "/DailyReportFront/static/js/1.1a817667.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.4242d87e.chunk.css.map": "/DailyReportFront/static/css/main.4242d87e.chunk.css.map",
   "static/css/1.49451883.chunk.css.map": "/DailyReportFront/static/css/1.49451883.chunk.css.map",
   "index.html": "/DailyReportFront/index.html",
-  "precache-manifest.ddef8778130e79a19ef98c8a224e3519.js": "/DailyReportFront/precache-manifest.ddef8778130e79a19ef98c8a224e3519.js",
+  "precache-manifest.6d13ae83e563b1b0c0ec26dcb49238ce.js": "/DailyReportFront/precache-manifest.6d13ae83e563b1b0c0ec26dcb49238ce.js",
   "service-worker.js": "/DailyReportFront/service-worker.js"
 }
