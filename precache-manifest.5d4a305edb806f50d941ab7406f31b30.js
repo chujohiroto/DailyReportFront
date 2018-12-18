@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "fdd90bb50ab9b31efb07",
+    "revision": "a4e71f7ef606068e5ae4",
     "url": "/DailyReportFront/static/css/main.4242d87e.chunk.css"
   },
   {
-    "revision": "fdd90bb50ab9b31efb07",
-    "url": "/DailyReportFront/static/js/main.fdd90bb5.chunk.js"
+    "revision": "a4e71f7ef606068e5ae4",
+    "url": "/DailyReportFront/static/js/main.a4e71f7e.chunk.js"
   },
   {
     "revision": "1a8176671425ce253298",
@@ -20,6 +20,10 @@ self.__precacheManifest = [
     "url": "/DailyReportFront/static/js/runtime~main.087f6798.js"
   },
   {
+    "revision": "792dcd18baf5f544aabcad1883d673c2",
+    "url": "/DailyReportFront/static/media/rw-widgets.792dcd18.svg"
+  },
+  {
     "revision": "eceddf474df95d8d4a7e316668c3be85",
     "url": "/DailyReportFront/static/media/rw-widgets.eceddf47.ttf"
   },
@@ -28,19 +32,15 @@ self.__precacheManifest = [
     "url": "/DailyReportFront/static/media/rw-widgets.12f0820c.woff"
   },
   {
-    "revision": "792dcd18baf5f544aabcad1883d673c2",
-    "url": "/DailyReportFront/static/media/rw-widgets.792dcd18.svg"
+    "revision": "a770b6797b68e3f8920e473eb824bac0",
+    "url": "/DailyReportFront/static/media/loader-big.a770b679.gif"
   },
   {
     "revision": "bc7c4a59f924cf037aad6e1f9edba366",
     "url": "/DailyReportFront/static/media/rw-widgets.bc7c4a59.eot"
   },
   {
-    "revision": "a770b6797b68e3f8920e473eb824bac0",
-    "url": "/DailyReportFront/static/media/loader-big.a770b679.gif"
-  },
-  {
-    "revision": "ecf7101939b944f5327a9878114df01d",
+    "revision": "b9229110088c0a5e6c33cea1e18dd9dc",
     "url": "/DailyReportFront/index.html"
   }
 ];
