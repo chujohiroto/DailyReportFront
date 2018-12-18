@@ -1,26 +1,31 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Header from './header';
+import Form from './form';
+import './App.css';    
+import request from 'superagent'
 
 class App extends Component {
+
+  send(values){
+    alert(JSON.stringify(values));
+    request.post("http://localhost:80/sendMessage")
+            .send(values)
+            .end(function(err, res) {
+    if (err) {
+      console.log(err);
+    } else {
+      console.log(res.status);
+    }
+  });
+    // ここまで追記
+  }
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
+      <React.Fragment>
+        <Header title="Daily Report" />
+        <Form {...this.props} 
+        onSubmit={values => this.send(values)}></Form>
+      </React.Fragment>
     );
   }
 }
