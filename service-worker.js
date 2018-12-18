@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/DailyReportFront/precache-manifest.cc8c1f8f8e68643d1868dd34e2802872.js"
+  "/DailyReportFront/precache-manifest.ed7ddbb43e6467da1f22d57c7ed1cadd.js"
 );
 
 workbox.clientsClaim();

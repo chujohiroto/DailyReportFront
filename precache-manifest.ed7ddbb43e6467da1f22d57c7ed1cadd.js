@@ -24,23 +24,23 @@ self.__precacheManifest = [
     "url": "/DailyReportFront/static/media/rw-widgets.12f0820c.woff"
   },
   {
-    "revision": "792dcd18baf5f544aabcad1883d673c2",
-    "url": "/DailyReportFront/static/media/rw-widgets.792dcd18.svg"
+    "revision": "bc7c4a59f924cf037aad6e1f9edba366",
+    "url": "/DailyReportFront/static/media/rw-widgets.bc7c4a59.eot"
   },
   {
     "revision": "eceddf474df95d8d4a7e316668c3be85",
     "url": "/DailyReportFront/static/media/rw-widgets.eceddf47.ttf"
   },
   {
-    "revision": "bc7c4a59f924cf037aad6e1f9edba366",
-    "url": "/DailyReportFront/static/media/rw-widgets.bc7c4a59.eot"
+    "revision": "792dcd18baf5f544aabcad1883d673c2",
+    "url": "/DailyReportFront/static/media/rw-widgets.792dcd18.svg"
   },
   {
     "revision": "a770b6797b68e3f8920e473eb824bac0",
     "url": "/DailyReportFront/static/media/loader-big.a770b679.gif"
   },
   {
-    "revision": "75c2b3b54a8765776726b42daad6bb2e",
+    "revision": "532d5fa34f7d2b49a4cca07d0e4035ee",
     "url": "/DailyReportFront/index.html"
   }
 ];
