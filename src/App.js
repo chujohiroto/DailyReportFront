@@ -7,7 +7,7 @@ import request from 'superagent'
 class App extends Component {
 
   send(values){
-    request.post("https://home.irossoftware.com:9010/sendMessage")
+    request.post("https://rx100.home.irossoftware.com/sendMessage")
             .send(values)
             .end(function(err, res) {
     if (err) {
@@ -18,7 +18,6 @@ class App extends Component {
       alert('送信しました。');
     }
   });
-    // ここまで追記
   }
   render() {
     return (
