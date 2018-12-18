@@ -95,5 +95,5 @@ const Form = props => {
 
 export default reduxForm({
     form: 'input',
-    initialValues: {member : "None",date: '2018-12-18'}
+    initialValues: {member : "None",date: new Date().getFullYear() + "-"  + (new Date().getMonth() + 1)  + "-" + new Date().getDate() }
 })(Form);
