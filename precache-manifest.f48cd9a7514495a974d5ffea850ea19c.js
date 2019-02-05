@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7594f12c676ba3a8253e",
+    "revision": "0fb84f0bdab37aa1d503",
     "url": "/DailyReportFront/static/css/main.f8279cf4.chunk.css"
   },
   {
-    "revision": "7594f12c676ba3a8253e",
-    "url": "/DailyReportFront/static/js/main.7594f12c.chunk.js"
+    "revision": "0fb84f0bdab37aa1d503",
+    "url": "/DailyReportFront/static/js/main.0fb84f0b.chunk.js"
   },
   {
     "revision": "2aedab4bf16ad68479ac",
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/DailyReportFront/static/media/rw-widgets.12f0820c.woff"
   },
   {
-    "revision": "792dcd18baf5f544aabcad1883d673c2",
-    "url": "/DailyReportFront/static/media/rw-widgets.792dcd18.svg"
-  },
-  {
     "revision": "bc7c4a59f924cf037aad6e1f9edba366",
     "url": "/DailyReportFront/static/media/rw-widgets.bc7c4a59.eot"
+  },
+  {
+    "revision": "792dcd18baf5f544aabcad1883d673c2",
+    "url": "/DailyReportFront/static/media/rw-widgets.792dcd18.svg"
   },
   {
     "revision": "eceddf474df95d8d4a7e316668c3be85",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/DailyReportFront/static/media/loader-big.a770b679.gif"
   },
   {
-    "revision": "ee9332d23e281e31096aefa611d092ea",
+    "revision": "f294a145759c29bcbd07a153746be5d9",
     "url": "/DailyReportFront/index.html"
   }
 ];
