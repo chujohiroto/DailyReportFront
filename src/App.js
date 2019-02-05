@@ -10,7 +10,7 @@ class App extends Component {
     {
       return;
     }
-    request.post("https://tea-app.jp:9010/sendMessage")
+    request.post("http://tea-app.jp:9010/sendMessage")
             .send(values)
             .end(function(err, res) {
     if (err) 
@@ -28,7 +28,7 @@ class App extends Component {
     {
       return;
     }
-    request.post("https://tea-app.jp:9010/saveMessage")
+    request.post("http://tea-app.jp:9010/saveMessage")
             .send(values)
             .end(function(err, res) {
     if (err) 
