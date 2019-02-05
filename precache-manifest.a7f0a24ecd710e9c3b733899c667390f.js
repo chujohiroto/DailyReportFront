@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "da17520d85d73eeed93c",
+    "revision": "2092513dd8f62c55c11e",
     "url": "/DailyReportFront/static/css/main.f8279cf4.chunk.css"
   },
   {
-    "revision": "da17520d85d73eeed93c",
-    "url": "/DailyReportFront/static/js/main.da17520d.chunk.js"
+    "revision": "2092513dd8f62c55c11e",
+    "url": "/DailyReportFront/static/js/main.2092513d.chunk.js"
   },
   {
     "revision": "2aedab4bf16ad68479ac",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/DailyReportFront/static/media/loader-big.a770b679.gif"
   },
   {
-    "revision": "7d430df409be8e61649f0d84083470de",
+    "revision": "ef4e113f6b15717e3f67ae2da30a10e1",
     "url": "/DailyReportFront/index.html"
   }
 ];
