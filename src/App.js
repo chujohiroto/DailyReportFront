@@ -47,7 +47,7 @@ class App extends Component {
     return (
       <React.Fragment>
         <Header title="Daily Report" />
-                よる10時になると、自動で保存された内容が投稿されます。すぐに送信したい場合は送信ボタンを押してください。
+                朝8時になると、自動で保存された内容が投稿されます。すぐに送信したい場合は送信ボタンを押してください。
         <Form {...this.props} 
         onSubmit={values => this.send(values)} onChange={values => this.save(values)}>
         </Form>
