@@ -4,7 +4,7 @@ import renderTextField from './Component/textField';  // 作成したコンポ�
 import IconLabelButton from './Component/button';
 import Select from './Component/select'
 import 'react-widgets/dist/css/react-widgets.css'
-
+import * as moment from 'moment';
 
 const Form = props => {
     const { handleSubmit, pristine, reset, submitting } = props;
@@ -78,7 +78,7 @@ const Form = props => {
                     variant="contained"
                     color="primary"
                     value="送信"
-                    iconClassName="save"
+                    iconClassName="send"
                     disabled={pristine || submitting}
                     />
                 <IconLabelButton
@@ -95,5 +95,5 @@ const Form = props => {
 
 export default reduxForm({
     form: 'input',
-    initialValues: {member : "None",date: new Date().getFullYear() + "-"  + (new Date().getMonth() + 1)  + "-" + new Date().getDate() }
+    initialValues: {member : "None", date: moment().format('YYYY-MM-DD')}
 })(Form);
