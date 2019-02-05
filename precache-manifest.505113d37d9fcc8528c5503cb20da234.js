@@ -1,31 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "bbcfd602dcca45761f13",
-    "url": "/DailyReportFront/static/css/main.4242d87e.chunk.css"
+    "revision": "58fba44a1a1357ec4924",
+    "url": "/DailyReportFront/static/css/main.f8279cf4.chunk.css"
   },
   {
-    "revision": "bbcfd602dcca45761f13",
-    "url": "/DailyReportFront/static/js/main.bbcfd602.chunk.js"
+    "revision": "58fba44a1a1357ec4924",
+    "url": "/DailyReportFront/static/js/main.58fba44a.chunk.js"
   },
   {
-    "revision": "1a8176671425ce253298",
-    "url": "/DailyReportFront/static/css/1.49451883.chunk.css"
+    "revision": "2aedab4bf16ad68479ac",
+    "url": "/DailyReportFront/static/css/1.c52db839.chunk.css"
   },
   {
-    "revision": "1a8176671425ce253298",
-    "url": "/DailyReportFront/static/js/1.1a817667.chunk.js"
+    "revision": "2aedab4bf16ad68479ac",
+    "url": "/DailyReportFront/static/js/1.2aedab4b.chunk.js"
   },
   {
     "revision": "087f6798f59feaeb347c",
     "url": "/DailyReportFront/static/js/runtime~main.087f6798.js"
   },
   {
-    "revision": "12f0820c451bdc75f4d1ef97732bf6e8",
-    "url": "/DailyReportFront/static/media/rw-widgets.12f0820c.woff"
-  },
-  {
     "revision": "bc7c4a59f924cf037aad6e1f9edba366",
     "url": "/DailyReportFront/static/media/rw-widgets.bc7c4a59.eot"
+  },
+  {
+    "revision": "12f0820c451bdc75f4d1ef97732bf6e8",
+    "url": "/DailyReportFront/static/media/rw-widgets.12f0820c.woff"
   },
   {
     "revision": "eceddf474df95d8d4a7e316668c3be85",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/DailyReportFront/static/media/loader-big.a770b679.gif"
   },
   {
-    "revision": "532d5fa34f7d2b49a4cca07d0e4035ee",
+    "revision": "ca2a6280831154f87cd873abfed69479",
     "url": "/DailyReportFront/index.html"
   }
 ];
